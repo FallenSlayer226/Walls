@@ -3,7 +3,7 @@
 A place for wallpapers to be stored for all purposes
 
 # Anime
-[a link]([https://github.com/FallenSlayer226/Walls/tree/main/Anime])
+([https://github.com/FallenSlayer226/Walls/tree/main/Anime])
 
 # Ark Survival Evolved
 
