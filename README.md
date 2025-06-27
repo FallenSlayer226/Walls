@@ -1,5 +1,5 @@
 # Themes
-[Anime](Anime)
+[Anime](Anime/README.md)
 
 [Ark Survival Ascended](https://github.com/FallenSlayer226/Walls/blob/main/Ark%20Survial%20Ascended/README.md)
 
@@ -9,7 +9,7 @@
 
 [Minecraft](Minecraft)
 
-[Misc](Misc)
+[Misc](Misc/README.md)
 
 [Red Dead Redemption 2](https://github.com/FallenSlayer226/Walls/tree/main/Red%20Dead%20Redemption%202/README.md)
 
