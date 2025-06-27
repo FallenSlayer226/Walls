@@ -1,4 +1,4 @@
-# =Ark Survival Ascended
+# Ark Survival Ascended
 
 <a href="Screenshot_2023-12-30_225811.png"><img alt="Screenshot_2023-12-30_225811.png" src="Screenshot_2023-12-30_225811.png"></a>
 
