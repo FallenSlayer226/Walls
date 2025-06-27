@@ -1,6 +1,6 @@
 # Anime Selector
 
-[Boruto](/Anime/Boruto)
+[Boruto](/Anime/Boruto/README.md)
 
 [Guts](/Anime/Guts)
 
