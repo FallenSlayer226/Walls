@@ -9,7 +9,7 @@ A place for wallpapers to be stored for all purposes
 [ASA](Ark Survial Ascended)
 
 # Assassin's Creed
-[Anime](Assassin's Creed)
+[Anime](Assassin's_Creed)
 
 # God of War
 [Anime](Anime)
@@ -18,7 +18,7 @@ A place for wallpapers to be stored for all purposes
 [Minecraft](Minecraft)
 
 # Misc
-[Anime](Anime)
+[Misc](Misc)
 
 # Red Dead Redemption 2
 [Anime](Anime)
