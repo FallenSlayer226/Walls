@@ -15,7 +15,7 @@
 
 [Resident Evil](https://github.com/FallenSlayer226/Walls/tree/main/Resident%20Evil/README.md)
 
-[Skyrim](Skyrim)
+[Skyrim](Skyrim/README.md)
 
 [Soulsborne](Soulsborne)
 
