@@ -9,7 +9,7 @@ A place for wallpapers to be stored for all purposes
 [ASA](Ark Survial Ascended)
 
 # Assassin's Creed
-[Anime](Assassin's_Creed)
+[Anime](Assassin'sCreed)
 
 # God of War
 [Anime](Anime)
