@@ -4,7 +4,7 @@ A place for wallpapers to be stored for all purposes
 ## Themes
 [Anime](Anime)
 
-[Ark Survival Ascended](https://github.com/FallenSlayer226/Walls/tree/main/Ark%20Survial%20Ascended)
+[Ark Survival Ascended](https://github.com/FallenSlayer226/Walls/blob/main/Ark%20Survial%20Ascended/README.md)
 
 [Assassin's Creed](https://github.com/FallenSlayer226/Walls/tree/main/Assassin's%20Creed)
 
