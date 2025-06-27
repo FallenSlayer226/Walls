@@ -9,7 +9,7 @@ A place for wallpapers to be stored for all purposes
 [ASA](Ark Survial Ascended)
 
 # Assassin's Creed
-[Anime](Assassin'sCreed)
+[Anime](Assassin's Creed)
 
 # God of War
 [Anime](Anime)
@@ -27,10 +27,10 @@ A place for wallpapers to be stored for all purposes
 [Anime](Anime)
 
 # Skyrim
-[Anime](Anime)
+[Skyrim](Skyrim)
 
 # Soulsborne
-[Anime](Anime)
+[Soulsborne](Soulsborne)
 
 # Witcher 3
 [Anime](Anime)
