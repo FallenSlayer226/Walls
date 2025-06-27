@@ -2,14 +2,14 @@
 
 [Boruto](/Anime/Boruto/README.md)
 
-[Guts](/Anime/Guts)
+[Guts](/Anime/Guts/README.md)
 
-[Itachi](/Anime/Itachi)
+[Itachi](/Anime/Itachi/README.md)
 
-[Kaneki](/Anime/Kaneki)
+[Kaneki](/Anime/Kaneki/README.md)
 
-[Madara](/Anime/Madara)
+[Madara](/Anime/Madara/README.md)
 
-[Naruto](/Anime/Naruto)
+[Naruto](/Anime/Naruto/README.md)
 
-[Wallpapers](/Anime/Wallpapers)
+[Wallpapers](/Anime/Wallpapers/README.md)
