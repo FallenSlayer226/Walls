@@ -6,7 +6,7 @@ A place for wallpapers to be stored for all purposes
 [Anime](Anime)
 
 # Ark Survival Evolved
-[Ark Survial Ascended](Ark Survial Ascended)
+["Ark Survial Ascended"](Ark Survial Ascended)
 
 # Assassin's Creed
 [Anime](Anime)
