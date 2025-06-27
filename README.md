@@ -17,6 +17,6 @@
 
 [Skyrim](Skyrim/README.md)
 
-[Soulsborne](Soulsborne)
+[Soulsborne](Soulsborne/README.md)
 
 [Witcher 3](https://github.com/FallenSlayer226/Walls/tree/main/Witcher%203/README.md)
