@@ -1,7 +1,4 @@
-# Walls
-A place for wallpapers to be stored for all purposes
-
-## Themes
+# Themes
 [Anime](Anime)
 
 [Ark Survival Ascended](https://github.com/FallenSlayer226/Walls/blob/main/Ark%20Survial%20Ascended/README.md)
