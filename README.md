@@ -2,7 +2,7 @@
 
 A place for wallpapers to be stored for all purposes
 
-# Anime
+## Anime
 [Anime](Anime)
 
 # Ark Survival Evolved
