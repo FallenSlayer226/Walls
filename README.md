@@ -21,7 +21,7 @@ A place for wallpapers to be stored for all purposes
 [Misc](Misc)
 
 # Red Dead Redemption 2
-[Anime](Anime)
+[Red Dead Redemption 2](https://github.com/FallenSlayer226/Walls/tree/main/Red%20Dead%20Redemption%202)
 
 # Resident Evil
 [Anime](Anime)
