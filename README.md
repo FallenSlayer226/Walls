@@ -7,7 +7,7 @@
 
 [God of War](https://github.com/FallenSlayer226/Walls/tree/main/God%20Of%20War)
 
-[Minecraft](Minecraft)
+[Minecraft](Minecraft/README.md)
 
 [Misc](Misc/README.md)
 
