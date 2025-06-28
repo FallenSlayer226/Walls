@@ -17,3 +17,7 @@
 <a href="itachi-uchiha.png"><img alt="itachi-uchiha.png" src="itachi-uchiha.png"></a>
 
 <a href="rCYokW4l_2x.jpg"><img alt="rCYokW4l_2x.jpg" src="rCYokW4l_2x.jpg"></a>
+
+<a href="wallhaven-jxdyry.jpg"><img alt="wallhaven-jxdyry.jpg" src="wallhaven-jxdyry.jpg"></a>
+
+<a href="wallhaven-x81emv.png"><img alt="wallhaven-x81emv.png" src="wallhaven-x81emv.png"></a>
