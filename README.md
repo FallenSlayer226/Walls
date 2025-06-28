@@ -21,4 +21,6 @@
 
 [Soulsborne](Soulsborne/README.md)
 
+[Star Wars](https://github.com/FallenSlayer226/Walls/blob/main/Star%20Wars/README.md)
+
 [Witcher 3](https://github.com/FallenSlayer226/Walls/tree/main/Witcher%203/README.md)
