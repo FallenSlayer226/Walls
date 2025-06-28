@@ -7,6 +7,8 @@
 
 [Assassin's Creed](https://github.com/FallenSlayer226/Walls/tree/main/Assassin's%20Creed/README.md)
 
+[Doom](Doom/README.md)
+
 [God of War](https://github.com/FallenSlayer226/Walls/tree/main/God%20Of%20War/README.md)
 
 [Minecraft](Minecraft/README.md)
