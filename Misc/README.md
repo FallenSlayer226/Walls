@@ -70,8 +70,6 @@
 
 <a href="spidey.jpg"><img alt="spidey.jpg" src="spidey.jpg"></a>
 
-<a href="star-wars.jpg"><img alt="star-wars.jpg" src="star-wars.jpg"></a>
-
 <a href="terry-wei-.jpg"><img alt="terry-wei-.jpg" src="terry-wei-.jpg"></a>
 
 <a href="uzumaki-1.png"><img alt="uzumaki-1.png" src="uzumaki-1.png"></a>
