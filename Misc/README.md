@@ -70,8 +70,6 @@
 
 <a href="spidey.jpg"><img alt="spidey.jpg" src="spidey.jpg"></a>
 
-<a href="star-wars.jpg"><img alt="star-wars.jpg" src="star-wars.jpg"></a>
-
 <a href="terry-wei-.jpg"><img alt="terry-wei-.jpg" src="terry-wei-.jpg"></a>
 
 <a href="uzumaki-1.png"><img alt="uzumaki-1.png" src="uzumaki-1.png"></a>
@@ -84,7 +82,13 @@
 
 <a href="wallhaven-3lp2md.jpg"><img alt="wallhaven-3lp2md.jpg" src="wallhaven-3lp2md.jpg"></a>
 
+<a href="wallhaven-6lkqyw.png"><img alt="wallhaven-6lkqyw.png" src="wallhaven-6lkqyw.png"></a>
+
 <a href="wallhaven-8oev1j.jpg"><img alt="wallhaven-8oev1j.jpg" src="wallhaven-8oev1j.jpg"></a>
+
+<a href="wallhaven-k89dz7.jpg"><img alt="wallhaven-k89dz7.jpg" src="wallhaven-k89dz7.jpg"></a>
+
+<a href="wallhaven-zpmgwy.jpg"><img alt="wallhaven-zpmgwy.jpg" src="wallhaven-zpmgwy.jpg"></a>
 
 <a href="windows-black.jpg"><img alt="windows-black.jpg" src="windows-black.jpg"></a>
 
