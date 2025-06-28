@@ -84,6 +84,12 @@
 
 <a href="vagabond.jpg"><img alt="vagabond.jpg" src="vagabond.jpg"></a>
 
+<a href="wallhaven-1jrp19.jpg"><img alt="wallhaven-1jrp19.jpg" src="wallhaven-1jrp19.jpg"></a>
+
+<a href="wallhaven-dpe35j.jpg"><img alt="wallhaven-dpe35j.jpg" src="wallhaven-dpe35j.jpg"></a>
+
+<a href="wallhaven-k7g62q.jpg"><img alt="wallhaven-k7g62q.jpg" src="wallhaven-k7g62q.jpg"></a>
+
 <a href="wallhaven-l31mwl.png"><img alt="wallhaven-l31mwl.png" src="wallhaven-l31mwl.png"></a>
 
 <a href="zenitsu.jpg"><img alt="zenitsu.jpg" src="zenitsu.jpg"></a>
