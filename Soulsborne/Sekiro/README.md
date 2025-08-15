@@ -58,6 +58,6 @@
 
 <a href="20230807233623_1.jpg"><img alt="20230807233623_1.jpg" src="20230807233623_1.jpg"></a>
 
-<a href="Sekiro/sekiro desktop walllpaper 2.jpg"><img alt="Sekiro/sekiro desktop walllpaper 2.jpg" src="Sekiro/sekiro desktop walllpaper 2.jpg"></a>
+<a href="sekiro desktop walllpaper 2.jpg"><img alt="sekiro desktop walllpaper 2.jpg" src="sekiro desktop walllpaper 2.jpg"></a>
 
 <a href="Sekiro Desktop wallpaper.jpg"><img alt="Sekiro Desktop wallpaper.jpg" src="Sekiro Desktop wallpaper.jpg"></a>
