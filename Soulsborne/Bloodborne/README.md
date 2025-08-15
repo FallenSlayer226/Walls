@@ -1,6 +1,6 @@
 # Bloodborne
 
-<a href="anato-finnstark-web-petit.jpg"><img alt"anato-finnstark-web-petit.jpg" src="anato-finnstark-web-petit.jpg"></a>
+<a href="anato-finnstark-web-petit.jpg"><img alt="anato-finnstark-web-petit.jpg" src="anato-finnstark-web-petit.jpg"></a>
 
 <a href="wallhaven-7pmlp9.png"><img alt="wallhaven-7pmlp9.png" src="wallhaven-7pmlp9.png"></a>
 
