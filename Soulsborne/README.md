@@ -196,8 +196,6 @@
 
 <a href="20250610210027_1.jpg"><img alt="20250610210027_1.jpg" src="20250610210027_1.jpg"></a>
 
-<a href="FireKeeper.png"><img alt="FireKeeper.png" src="FireKeeper.png"></a>
-
 <a href="GR8ipqzacAAsPqN.jpg"><img alt="GR8ipqzacAAsPqN.jpg" src="GR8ipqzacAAsPqN.jpg"></a>
 
 <a href="GTuQYwdaUAAjp66.jpg"><img alt="GTuQYwdaUAAjp66.jpg" src="GTuQYwdaUAAjp66.jpg"></a>
