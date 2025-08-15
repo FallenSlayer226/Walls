@@ -58,26 +58,6 @@
 
 <a href="20230807233623_1.jpg"><img alt="20230807233623_1.jpg" src="20230807233623_1.jpg"></a>
 
-<a href="20231117032353_1.jpg"><img alt="20231117032353_1.jpg" src="20231117032353_1.jpg"></a>
+<a href="Sekiro/sekiro desktop walllpaper 2.jpg"><img alt="Sekiro/sekiro desktop walllpaper 2.jpg" src="Sekiro/sekiro desktop walllpaper 2.jpg"></a>
 
-<a href="20231223015421_1.jpg"><img alt="20231223015421_1.jpg" src="20231223015421_1.jpg"></a>
-
-<a href="20240519011514_1.jpg"><img alt="20240519011514_1.jpg" src="20240519011514_1.jpg"></a>
-
-<a href="20240520012232_1.jpg"><img alt="20240520012232_1.jpg" src="20240520012232_1.jpg"></a>
-
-<a href="20240520212508_1.jpg"><img alt="20240520212508_1.jpg" src="20240520212508_1.jpg"></a>
-
-<a href="20240521013657_1.jpg"><img alt="20240521013657_1.jpg" src="20240521013657_1.jpg"></a>
-
-<a href="20240521015220_1.jpg"><img alt="20240521015220_1.jpg" src="20240521015220_1.jpg"></a>
-
-<a href="20240521215553_1.jpg"><img alt="20240521215553_1.jpg" src="20240521215553_1.jpg"></a>
-
-<a href="20240521221953_1.jpg"><img alt="20240521221953_1.jpg" src="20240521221953_1.jpg"></a>
-
-<a href="20240521222042_1.jpg"><img alt="20240521222042_1.jpg" src="20240521222042_1.jpg"></a>
-
-<a href="20240521222113_1.jpg"><img alt="20240521222113_1.jpg" src="20240521222113_1.jpg"></a>
-
-<a href="20240521222130_1.jpg"><img alt="20240521222130_1.jpg" src="20240521222130_1.jpg"></a>
+<a href="Sekiro Desktop wallpaper.jpg"><img alt="Sekiro Desktop wallpaper.jpg" src="Sekiro Desktop wallpaper.jpg"></a>
