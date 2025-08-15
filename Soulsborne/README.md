@@ -202,24 +202,6 @@
 
 <a href="GTuQYwdaUAAjp66.jpg"><img alt="GTuQYwdaUAAjp66.jpg" src="GTuQYwdaUAAjp66.jpg"></a>
 
-<a href="Irithyll-Boreal-Valley.png"><img alt="Irithyll-Boreal-Valley.png" src="Irithyll-Boreal-Valley.png"></a>
-
-<a href="artorias_vs_manus_final_correction_2_copia_2.png"><img alt="artorias_vs_manus_final_correction_2_copia_2.png" src="artorias_vs_manus_final_correction_2_copia_2.png"></a>
-
-<a href="dark-souls-dragon-slayer-ornstein-g0k5r1l1dwnwkhxs.jpg"><img alt="dark-souls-dragon-slayer-ornstein-g0k5r1l1dwnwkhxs.jpg" src="dark-souls-dragon-slayer-ornstein-g0k5r1l1dwnwkhxs.jpg"></a>
-
-<a href="download (2).jpg"><img alt="download (2).jpg" src="download (2).jpg"></a>
-
-<a href="wallhaven-73ql9o.jpg"><img alt="wallhaven-73ql9o.jpg" src="wallhaven-73ql9o.jpg"></a>
-
-<a href="wallhaven-7pmlp9.png"><img alt="wallhaven-7pmlp9.png" src="wallhaven-7pmlp9.png"></a>
-
 <a href="wallhaven-expdok.jpg"><img alt="wallhaven-expdok.jpg" src="wallhaven-expdok.jpg"></a>
-
-<a href="wallhaven-kwerp6.jpg"><img alt="wallhaven-kwerp6.jpg" src="wallhaven-kwerp6.jpg"></a>
-
-<a href="wallhaven-mlpk1m.jpg"><img alt="wallhaven-mlpk1m.jpg" src="wallhaven-mlpk1m.jpg"></a>
-
-<a href="wallhaven-r79ol1.jpg"><img alt="wallhaven-r79ol1.jpg" src="wallhaven-r79ol1.jpg"></a>
 
 <a href="wallhaven-x63x1v.jpg"><img alt="wallhaven-x63x1v.jpg" src="wallhaven-x63x1v.jpg"></a>
