@@ -4,7 +4,7 @@
 
 <a href="2.jpg"><img alt="2.jpg" src="2.jpg"></a>
 
-<a href="DarkSoulsIII.jpg"><img alt="DarkSoulsIII.jpg" src="DarkSoulsIII"></a>
+<a href="DarkSoulsIII.jpg"><img alt="DarkSoulsIII.jpg" src="DarkSoulsIII.jpg"></a>
 
 <a href="FireKeeper.png"><img alt="FireKeeper.png" src="FireKeeper.png"></a>
 
