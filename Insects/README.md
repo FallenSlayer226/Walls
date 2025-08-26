@@ -1,3 +1,4 @@
+# Insects
 <img width="2560" height="1440" alt="a_white_dog_with_fruits_on_it" src="https://github.com/user-attachments/assets/329a9b0d-0b51-4a5b-afab-8d94ae2415b9" />
 <img width="2560" height="1440" alt="a_group_of_deer_with_antlers_and_rocks" src="https://github.com/user-attachments/assets/dc7fa021-9c2d-4d6c-936c-d015762893aa" />
 <img width="2560" height="1440" alt="a_drawing_of_snakes_on_a_blue_background" src="https://github.com/user-attachments/assets/eb88e76a-f885-4652-ab0d-dc439c206ba9" />
