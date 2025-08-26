@@ -1,3 +1,4 @@
+# Minimalism
 ![10](https://github.com/user-attachments/assets/3d2ff4cb-2bd4-411f-98d8-c34793d59e81)
 ![9](https://github.com/user-attachments/assets/b468d2de-e395-41f2-bb6d-03d09ebc943e)
 ![8](https://github.com/user-attachments/assets/8c5ab75e-e12c-4b86-923c-c1b1833adfd9)
