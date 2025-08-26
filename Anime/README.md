@@ -12,6 +12,8 @@
 
 [Madara](/Anime/Madara/README.md)
 
+[Manga](/Anime/Manga/README.md)
+
 [Naruto](/Anime/Naruto/README.md)
 
 [Wallpapers](/Anime/Wallpapers/README.md)
