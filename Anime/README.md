@@ -1,5 +1,7 @@
 # Anime Selector
 
+[Bleach](/Anime/Bleach/README.md)
+
 [Boruto](/Anime/Boruto/README.md)
 
 [Evaneglion](/Anime/Evaneglion/README.md)
