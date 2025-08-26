@@ -16,4 +16,6 @@
 
 [Naruto](/Anime/Naruto/README.md)
 
+[Tokyo Ghoul](https://github.com/FallenSlayer226/walls/tree/main/Anime/Tokyo%20Ghoul)
+
 [Wallpapers](/Anime/Wallpapers/README.md)
