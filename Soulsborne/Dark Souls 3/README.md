@@ -10,8 +10,6 @@
 
 <a href="Irithyll-Boreal-Valley.png"><img alt="Irithyll-Boreal-Valley.png" src="Irithyll-Boreal-Valley.png"></a>
 
-<a href="a_close_up_of_a_drawing.jpg"><img alt="a_close_up_of_a_drawing.jpg" src="a_close_up_of_a_drawing.jpg"></a>
-
 <a href="mathieu-le-gall-05.jpg"><img alt="mathieu-le-gall-05.jpg" src="mathieu-le-gall-05.jpg"></a>
 
 <a href="wallhaven-r79ol1.jpg"><img alt="wallhaven-r79ol1.jpg" src="wallhaven-r79ol1.jpg"></a>
