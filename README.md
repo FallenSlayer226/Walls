@@ -17,6 +17,8 @@
 
 [Minecraft](Minecraft/README.md)
 
+[Minimalism](Minimalism/README.md)
+
 [Misc](Misc/README.md)
 
 [Red Dead Redemption 2](https://github.com/FallenSlayer226/walls/tree/main/Red%20Dead%20Redemption%202/README.md)
