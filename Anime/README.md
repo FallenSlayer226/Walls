@@ -2,6 +2,8 @@
 
 [Boruto](/Anime/Boruto/README.md)
 
+[Evaneglion](/Anime/Evaneglion/README.md)
+
 [Guts](/Anime/Guts/README.md)
 
 [Itachi](/Anime/Itachi/README.md)
